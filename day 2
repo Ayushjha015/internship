@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayush Jha Resume</title>
+    <style>
+        body {
+            background-image: url(resume\ background.jpeg);
+            background-size: cover;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            margin: 20px;
+        }
+        hr{
+            border: 10px solid rgb(232, 103, 10);
+            opacity: 0.6;
+            border-radius: 10px;
+        }
+        img{
+            border: 5px solid black; 
+            padding: 0px;
+            border-radius: 4px;
+        }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="ayush photo.jpg" alt="PHOTO" height="150" width="130">
+    
+    <header>
+        <h1>Ayush Jha</h1>
+        <p>Web Developer</p>
+    </header>
+    <hr>
+    
+    <section>
+        <h2>Personal Information</h2>
+        <p>Name: Ayush Jha</p>
+        <p>Age: 19</p>
+        <p>DOB: 15/01/2004</p>
+        <p>Phone No: 7383507937</p>
+        <p>Address: Sector 3B, plot no 215/2,<br> Gandhinagar/Gujarat</p>
+    </section>
+    <hr>
+    
+    <section>
+        <h2>Education Background</h2>
+        <p><strong>High School</strong></p>
+        <p>Kendriya Vidhyalaya Sector 30 Gandhinagar</p>
+        <p><strong>University Name</strong></p>
+        <p>Silver Oak University</p>
+        <p>Course: B.Tech Computer Engineering</p>
+    </section>
+    <hr>
+    
+    <section>
+        <h2>Skills and Abilities</h2>
+        <p>Programming Languages: Python, Java & C</p>
+        <p>Editing Softwares: Adobe After Effects & Photoshop</p>
+        <p>Web Development: HTML, CSS & Node.js</p>
+    </section>
+    <hr>
+    
+    <section>
+        <h2>Experience</h2>
+        <ul>
+            <li><strong>SSIP Hackathon 2022</strong></li>
+            <li><strong>Intern as Web Developer at Batwebs</strong></li>
+        </ul>
+    </section>
+    
+    
+
+</body>
+</html>
